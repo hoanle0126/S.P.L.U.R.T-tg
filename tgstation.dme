@@ -10826,6 +10826,7 @@
 #include "modular_zzplurt\code\datums\quirks\neutral_quirks\cum_plus.dm"
 #include "modular_zzplurt\code\datums\quirks\neutral_quirks\cum_sniff.dm"
 #include "modular_zzplurt\code\datums\quirks\neutral_quirks\cursed_blood.dm"
+#include "modular_zzplurt\code\datums\quirks\neutral_quirks\egg_production.dm"
 #include "modular_zzplurt\code\datums\quirks\neutral_quirks\excitable.dm"
 #include "modular_zzplurt\code\datums\quirks\neutral_quirks\fluid_infuser.dm"
 #include "modular_zzplurt\code\datums\quirks\neutral_quirks\gargoyle.dm"
